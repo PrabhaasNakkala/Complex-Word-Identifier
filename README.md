@@ -7,3 +7,6 @@ The idea of this project is to scan a research paper pdf and identify a few of t
 The first step is to download the research paper of your choice in pdf format. Navigate to the Main.py file and change the PdfName varaible to the name of the pdf that you downloaded.
 
 Secondly, adjust the number of words to generate by changing the NumberOfWords variable. Run the Main.py file and a dictionary of the words with definitions will be printed to the terminal. 
+
+# Citations For Datasets
+Seid Muhie Yimam, Sanja Štajner, Martin Riedl, and Chris Biemann (2017): Multilingual and Cross-Lingual Complex Word Identification. In Proceedings of The 2017 International Conference on Recent Advances in Natural Language Processing (RANLP). Varna, Bulgaria [for multilingual data]
