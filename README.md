@@ -8,5 +8,8 @@ The first step is to download the research paper of your choice in pdf format. N
 
 Secondly, adjust the number of words to generate by changing the NumberOfWords variable. Run the Main.py file and a dictionary of the words with definitions will be printed to the terminal. 
 
+# Video Demo
+https://github.com/PrabhaasNakkala/Complex-Word-Identifier/assets/58062567/58df9927-f2a9-4723-adc3-08ef93243791
+
 # Citations For Datasets
 Seid Muhie Yimam, Sanja Štajner, Martin Riedl, and Chris Biemann (2017): Multilingual and Cross-Lingual Complex Word Identification. In Proceedings of The 2017 International Conference on Recent Advances in Natural Language Processing (RANLP). Varna, Bulgaria [for multilingual data]
